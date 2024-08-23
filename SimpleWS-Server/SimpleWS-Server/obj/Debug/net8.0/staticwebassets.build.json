@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "v4HLINdjMgOFxmT80Srfl1IsarNixSzHyZ88Qy1oiJc=",
+  "Source": "SimpleWS-Server",
+  "BasePath": "_content/SimpleWS-Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

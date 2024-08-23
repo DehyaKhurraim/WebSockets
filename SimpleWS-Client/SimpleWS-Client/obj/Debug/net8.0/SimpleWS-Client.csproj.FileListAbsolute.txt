@@ -1,0 +1,14 @@
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\bin\Debug\net8.0\SimpleWS-Client.exe
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\bin\Debug\net8.0\SimpleWS-Client.deps.json
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\bin\Debug\net8.0\SimpleWS-Client.runtimeconfig.json
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\bin\Debug\net8.0\SimpleWS-Client.dll
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\bin\Debug\net8.0\SimpleWS-Client.pdb
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.AssemblyInfoInputs.cache
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.AssemblyInfo.cs
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.csproj.CoreCompileInputs.cache
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.dll
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\refint\SimpleWS-Client.dll
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.pdb
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\SimpleWS-Client.genruntimeconfig.cache
+C:\Users\dehya.khurraim\source\repos\SimpleWS-Client\SimpleWS-Client\obj\Debug\net8.0\ref\SimpleWS-Client.dll
